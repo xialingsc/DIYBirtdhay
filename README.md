@@ -15,5 +15,5 @@ Then,you should build and run HappyBirthDay.go.
 
 The default sytle is ./HappyBirthDay.
  
-It can aslo accept stdin date and age for diy like it:
+It aslo accept stdin date and age for diy like it:
 `./HappyBirthDay 19970907 4`
